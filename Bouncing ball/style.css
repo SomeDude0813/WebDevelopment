@@ -1,0 +1,11 @@
+*
+{
+    /* removing the padding and the margin for all items inside of the browser */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* bulk sizing */
+}
+
+body {
+    background: black;
+}
